@@ -19,6 +19,7 @@ var mopen = ref(false);
       <div class="closer"><i class="ri-close-line" @click="mopen=false"></i></div>
       <a @click="mopen=false" href="#download">Contact Us</a>
       <a @click="mopen=false" href="./#faq">FAQ</a>
+      <a href="https://cadremit.medium.com" @click="mopen=false">Blog</a>
       <a @click="mopen=false" href="#download">
         <div class="download-btn">
           Download

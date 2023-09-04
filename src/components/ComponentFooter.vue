@@ -18,9 +18,9 @@ import { RouterLink } from 'vue-router';
     <img class="logo" src="@/assets/cadremit.svg"/>
     <div class="grey-text">contact@cadremit.com</div>
     <div class="socials">
-        <a href=""><i class="ri-medium-fill"></i></a>
+        <a target="_blank" href="https://linkedin.com/company/cadremit"><i class="ri-linkedin-fill"></i></a>
         <a target="_blank" href="https://instagram.com/cadremit"><i class="ri-instagram-line"></i></a>
-        <a target="_blank" href="https://instagram.com/cadremit"><i class="ri-twitter-fill"></i></a>
+        <a target="_blank" href="https://twitter.com/cadremit"><i class="ri-twitter-fill"></i></a>
     </div>
 </div>
 <div>
